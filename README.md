@@ -2,7 +2,7 @@
 <h3 align="center">Enhancing expertise in MERN Stack Development to create efficient, scalable web applications, Passionate about continuous learning, collaboration, and innovative projects</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=premkrrajbhar&label=Profile%20views&color=0e75b6&style=flat" alt="premkrrajbhar" /> </p>
+
 
 - 🌱 I’m currently learning **MERN Stack Development**
 - 💬 Ask me about **HTML, CSS, Git & GitHub**
@@ -23,6 +23,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=premkrrajbhar&show_icons=true&locale=en&layout=compact" alt="premkrrajbhar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premkrrajbhar&show_icons=true&locale=en" alt="premkrrajbhar" /></p>
