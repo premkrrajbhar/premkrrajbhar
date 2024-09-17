@@ -24,8 +24,11 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=premkrrajbhar&show_icons=true&locale=en&layout=compact" alt="premkrrajbhar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premkrrajbhar&show_icons=true&locale=en" alt="premkrrajbhar" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=premkrrajbhar&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=premkrrajbhar&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=premkrrajbhar&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=premkrrajbhar&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=premkrrajbhar&theme=nord_bright&utcOffset=8)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premkrrajbhar&theme=default" alt="premkrrajbhar" /></p>
+
