@@ -1,7 +1,7 @@
 # Hello, I'm Prem Kumar! 👋
 
 ## 👨‍💻 About Me
-🔭 I’m currently learning React.js to enhance my web development skills. <br>👯 I’m looking to collaborate on open source web development, frontend design and coding challenges.<br>🌱 I’m currently learning MERN stack (React.js, Node.js, Express.js, MongoDB) to build scalable, user-friendly web apps.<br>💬 Ask me about building websites with HTML, CSS, Bootstrap, JavaScript, TypeScript and using Git & GitHub for version control.<br>🌐 You can check out my portfolio at: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar/)
+🔭 I’m Frontend web Developer. <br>👯 I’m looking to collaborate on open source web development, frontend design and coding challenges.<br>🌱 I’m currently learning MERN stack (React.js, Node.js, Express.js, MongoDB) to build scalable, user-friendly web apps.<br>💬 Ask me about building websites with HTML, CSS, Bootstrap, JavaScript, TypeScript and using Git & GitHub for version control.<br>🌐 You can check out my portfolio at: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar/)
 
 
 ## 🖥️ Tech Stack:
