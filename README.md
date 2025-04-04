@@ -1,7 +1,7 @@
 # Hello, I'm Prem Kumar! 👋
 
 ## 👨‍💻 About Me
-🔭 I’m Frontend Developer. <br>🤝 Open to collaborating on open source projects, frontend design and coding challenges.<br>💬 Ask me about HTML, CSS, Bootstrap, JavaScript, TypeScript, React.js, Markdown and version control with Git & GitHub.<br>🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar/)
+👨‍🎓 I’m Frontend Developer. <br>🤝 Open to collaborating on open source projects, frontend design and coding challenges.<br>💬 Ask me about HTML, CSS, Bootstrap, JavaScript, TypeScript, React.js, Markdown and version control with Git & GitHub.<br>🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar/)
 
 
 ## 🖥️ Tech Stack:
