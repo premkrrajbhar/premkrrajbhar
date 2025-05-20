@@ -1,7 +1,7 @@
 # Hello, I'm Prem Kumar Rajbhar! 👋
 
 ## 👨‍💻 About Me
-👨‍🎓 I’m a creative and detail-oriented <strong>Web Designer</strong>, passionate about crafting visually engaging and user-friendly websites. <br>🤝 Open to collaborating on design focused projects, responsive layouts and UI/UX improvements.<br>💬 Ask me about HTML, CSS, SASS, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown and Adobe Photoshop. I also have a basic understanding of TypeScript and React.js.<br>🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar/)
+👨‍🎓 I’m a creative and detail oriented <strong>Web Designer</strong>, passionate about crafting visually engaging and user friendly websites. <br>🤝 Open to collaborating on design focused projects, responsive layouts and UI/UX improvements.<br>💬 Ask me about HTML, CSS, SASS, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown and Adobe Photoshop. I also have a basic understanding of TypeScript and React.js.<br>🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar-Rajbhar/)
 
 
 ## 🖥️ Tech Stack:
@@ -17,10 +17,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
-## 🎓 Certifications:
-[![React Certified](https://img.shields.io/badge/Certified-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)](https://drive.google.com/file/d/10SkbmbOUlev5tGv2s8OjVFfFArbHWP2_/view?usp=sharing) [![Bootstrap Certified](https://img.shields.io/badge/Certified-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)](https://www.csharp.com/certification/certificate/ffxqpbib) [![Markdown Certified](https://img.shields.io/badge/Certified-Markdown-black?style=for-the-badge&logo=markdown)](https://learn.microsoft.com/api/achievements/share/en-in/premkrrajbhar/KGKZ732B?sharingId=45F30A0DD5F5217) [![TypeScript Certified](https://img.shields.io/badge/Certified-TypeScript-blue?style=for-the-badge&logo=typescript)](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-typescript?utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin_certificate_share&utm_source_page=public_certificate_view) [![Responsive Web Design Certified](https://img.shields.io/badge/Certified-Responsive%20Web%20Design-teal?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/certification/premkrrajbhar/responsive-web-design) [![JavaScript Certified](https://img.shields.io/badge/Certified-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://www.hackerrank.com/certificates/da35aac8a6a0) [![CSS Certified](https://img.shields.io/badge/Certified-CSS-purple?style=for-the-badge&logo=css3)](https://www.hackerrank.com/certificates/9ce4df99a11f) [![Git Certified](https://img.shields.io/badge/Certified-Git-orange?style=for-the-badge&logo=git)](https://drive.google.com/file/d/1YDls02lg3orBqZwLsab1msapGrdc7KvW/view) [![HTML Certified](https://img.shields.io/badge/Certified-HTML-blue?style=for-the-badge&logo=html5)](https://drive.google.com/file/d/14jhtmTilQz0B-cVXjLyytyBbbOzugb0Y/view)
-
 ## 💻 Code Editors:
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) 
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important) 
@@ -31,16 +27,14 @@
 ![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff) 
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff) 
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff) 
-[![Microsoft Learn](https://img.shields.io/badge/-Microsoft%20Learn-258FFA?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/premkrrajbhar/)
+![Microsoft Learn](https://img.shields.io/badge/-Microsoft%20Learn-258FFA?logo=microsoft&logoColor=white)
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/premkrrajbhar/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:premkumarrajbhar22@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/premkrrajbhar) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/premkrrajbhar/) 
-[![Devfolio](https://img.shields.io/badge/Devfolio-29b6f6?logo=for-the-badge&logo=dev.to&logoColor=white)](https://devfolio.co/@premkrrajbhar) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28282495) 
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/premkrrajbhar) 
 [![Commudle](https://img.shields.io/badge/-Commudle-0A66C2?logo=commudle&logoColor=white)](https://www.commudle.com/users/premkrrajbhar) 
 
 ## 📊 GitHub Stats:
