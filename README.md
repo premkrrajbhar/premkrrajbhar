@@ -1,8 +1,11 @@
 # Hello, I'm Prem Kumar Rajbhar! 👋
 
 ## 👨‍💻 About Me
-👨‍🎓 I’m a creative and detail oriented <strong>Web Designer</strong>, passionate about crafting visually engaging and user friendly websites. <br>🤝 Open to collaborating on design focused projects, responsive layouts and UI/UX improvements.<br>💬 Ask me about HTML, CSS, SASS, Bootstrap, JavaScript, jquery, Git, GitHub, Markdown, Figma and Adobe Photoshop. I also have a basic understanding of TypeScript, React.js. and Wordpress.<br>🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar-Rajbhar/)
-
+👨‍🎓 I’m a creative and detail-oriented **Web Designer**, passionate about crafting visually engaging and user-friendly websites.  
+🤝 Open to collaborating on design-focused projects, responsive layouts, and UI/UX improvements.  
+💬 Ask me about HTML, CSS, SASS, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown, Figma, and Adobe Photoshop. I also have a basic understanding of TypeScript, React.js, and WordPress.  
+🕷️ **Fun Fact:** Sometimes I feel like a spider — just like it carefully weaves its web, I craft websites with clean, strong, and creative code.  
+🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar-Rajbhar/)
 
 ## 🖥️ Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
