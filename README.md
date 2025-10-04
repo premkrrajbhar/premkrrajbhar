@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 👨‍🎓 I’m a creative and detail-oriented **Web Designer**, passionate about crafting visually engaging and user-friendly websites.  
 🤝 Open to collaborating on design-focused projects, responsive layouts, and UI/UX improvements.  
-💬 Ask me about HTML, CSS, SASS, Bootstrap, JavaScript, jquery, Git, GitHub, Markdown, Figma, and Adobe Photoshop. I also have a basic understanding of TypeScript, React.js, and WordPress.  
+💬 Ask me about HTML, CSS, SASS, Bootstrap, JavaScript, jquery, Git, GitHub, Markdown, Figma, and Adobe Photoshop. I also have a basic understanding of TypeScript, and React.js 
 🕷️ Fun Fact: Sometimes I feel like a spider — just like it carefully weaves its web, I craft websites with clean, strong, and creative code.  
 🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar-Rajbhar/)
 
@@ -12,6 +12,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000) 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -20,7 +21,6 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ## 💻 Code Editors:
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) 
