@@ -4,7 +4,8 @@
 👨‍🎓 I’m a passionate and detail-oriented **Web Designer & Frontend Developer**, skilled in crafting responsive, visually appealing, and user-friendly websites.  
 💻 Experienced in working on **ASP.NET MVC (.NET) projects**, creating website themes, landing pages, and managing CMS with HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, and GitHub.  
 🤝 Open to collaborating on **UI/UX improvements, design-focused projects, and web optimization**.  
-💬 Ask me about **HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown, Figma, Adobe Photoshop**, and basic TypeScript & React.js knowledge.  
+📈 Having a good understanding of SEO practices, including On-page, Off-page, and Technical SEO to enhance website visibility and performance. <br/>
+💬 Ask me about **HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown, Figma, Adobe Photoshop**, and basic TypeScript & React.js knowledge and SEO — including On-page, Off-page, and Technical optimization.  
 🕷️ Fun Fact: Like a spider weaving its web, I create websites with **clean, strong, and creative code**.  
 🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar-Rajbhar/)
 
@@ -23,6 +24,10 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) 
+![SEO Knowledge](https://img.shields.io/badge/SEO-On--page%2C%20Off--page%20%26%20Technical-0769ad?style=for-the-badge)
+
+
+
 
 ## 💻 Code Editors:
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) 
