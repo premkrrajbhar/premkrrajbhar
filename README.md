@@ -5,7 +5,7 @@
 💻 Experienced in working on **ASP.NET MVC (.NET) projects**, creating website themes, landing pages, and managing CMS with HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, and GitHub.  
 🤝 Open to collaborating on **UI/UX improvements, design-focused projects, and web optimization**.  
 📈 Having a good understanding of SEO practices, including On-page, Off-page, and Technical SEO to enhance website visibility and performance. <br/>
-💬 Ask me about **HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown, Figma, Adobe Photoshop**, and basic TypeScript & React.js knowledge and SEO — including On-page, Off-page, and Technical optimization.  
+💬 Ask me about **HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown, Figma, Adobe Photoshop**, and basic TypeScript & React.js knowledge and SEO — including On-page, Off-page, Technical and Local.  
 🕷️ Fun Fact: Like a spider weaving its web, I create websites with **clean, strong, and creative code**.  
 🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar-Rajbhar/)
 
@@ -24,7 +24,8 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) 
-![SEO Knowledge](https://img.shields.io/badge/SEO-On--page%2C%20Off--page%20%26%20Technical-0769ad?style=for-the-badge)
+![SEO Knowledge](https://img.shields.io/badge/SEO-On--page%2C%20Off--page%2C%20Technical%20%26%20Local-0769ad?style=for-the-badge)
+
 
 
 
