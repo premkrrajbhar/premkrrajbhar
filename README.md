@@ -4,7 +4,7 @@
 👨‍🎓 I’m a passionate and detail-oriented **Web Designer & Frontend Developer**, skilled in crafting responsive, visually appealing, and user-friendly websites.  
 💻 Experienced in working on **ASP.NET MVC (.NET) projects**, creating website themes, landing pages, and managing CMS with HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, and GitHub.  
 🤝 Open to collaborating on **UI/UX improvements, design-focused projects, and web optimization**.  
-📈 Having a good understanding of SEO practices, including On-page, Off-page, and Technical SEO to enhance website visibility and performance. <br/>
+📈 Having a good understanding of SEO practices, including On-page, Off-page,Technical and Local SEO to enhance website visibility and performance. <br/>
 💬 Ask me about **HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown, Figma, Adobe Photoshop**, and basic TypeScript & React.js knowledge and SEO — including On-page, Off-page, Technical and Local.  
 🕷️ Fun Fact: Like a spider weaving its web, I create websites with **clean, strong, and creative code**.  
 🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar-Rajbhar/)
