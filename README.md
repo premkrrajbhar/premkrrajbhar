@@ -7,7 +7,7 @@
 📈 Having a good understanding of SEO practices, including On-page, Off-page, Technical and Local SEO to enhance website visibility and performance. <br/>
 💬 Ask me about **HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown, Figma, Adobe Photoshop**, and basic TypeScript & React.js knowledge and SEO — including On-page, Off-page, Technical and Local.  
 🕷️ Fun Fact: Like a spider weaving its web, I create websites with **clean, strong, and creative code**.  
-🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/Prem-Kumar-Rajbhar/)
+🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/prem_kumar_rajbhar/)
 
 
 ## 🖥️ Tech Stack:
