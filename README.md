@@ -1,12 +1,22 @@
 # Hello, I'm Prem Kumar Rajbhar! 👋
 
 ## 👨‍💻 About Me
-👨‍🎓 I’m a passionate and detail-oriented **Web Designer & Frontend Developer**, skilled in crafting responsive, visually appealing, and user-friendly websites.  
-💻 Experienced in working on **ASP.NET MVC (.NET) projects**, creating website themes, landing pages, and managing CMS with HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, and GitHub.  
-🤝 Open to collaborating on **UI/UX improvements, design-focused projects, and web optimization**.  
-📈 Having a good understanding of SEO practices, including On-page, Off-page, Technical and Local SEO to enhance website visibility and performance. <br/>
-💬 Ask me about **HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown, Figma, Adobe Photoshop**, and basic TypeScript & React.js knowledge and SEO — including On-page, Off-page, Technical and Local.  
+👋 Hi, I'm **Prem Kumar Rajbhar**, a **Frontend Developer** passionate about building responsive, accessible, and high-performance web applications with clean, maintainable code.
+
+💼 Currently working as a **Frontend Developer at Nimbus Adcom Private Limited**, where I develop modern user interfaces, build reusable frontend components, and create responsive web experiences that deliver excellent usability and performance.
+
+🎨 With a strong foundation in **Web Design**, I enjoy transforming UI/UX designs into pixel-perfect, responsive, and user-friendly websites using modern frontend technologies and best practices.
+
+🚀 I actively contribute to **Open Source**, build personal projects, and continuously explore new technologies to improve my development skills and create impactful digital experiences.
+
+🛠️ My primary tech stack includes **HTML5, CSS3, Sass, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown, Figma, and Adobe Photoshop**. I also have experience working with **ASP.NET MVC (.NET)** projects, CMS platforms, website optimization, and SEO best practices.
+
+🌱 I'm currently expanding my backend knowledge with **PHP** and **MySQL** while continuously growing as a **Software Developer**.
+
+💬 Ask me about **Frontend Development, Responsive Web Design, HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Git, GitHub, Markdown, Figma, Adobe Photoshop, SEO, and Open Source.**
+
 🕷️ Fun Fact: Like a spider weaving its web, I create websites with **clean, strong, and creative code**.  
+
 🌐 Check out my portfolio: [Portfolio](https://premkrrajbhar.github.io/prem_kumar_rajbhar/)
 
 
@@ -27,11 +37,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![SEO Knowledge](https://img.shields.io/badge/SEO-On--page%2C%20Off--page%2C%20Technical%20%26%20Local-0769ad?style=for-the-badge)
-
-
-
-
-
 
 
 ## 💻 Code Editors:
