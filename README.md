@@ -9,11 +9,9 @@
 
 🚀 I actively contribute to **Open Source**, build personal projects, and continuously explore new technologies to improve my development skills and create impactful digital experiences.
 
-🛠️ My primary tech stack includes **HTML5, CSS3, Sass, Bootstrap, JavaScript, jQuery, MySQL, Git, GitHub, Markdown, Figma, and Adobe Photoshop**. I also have experience working with **ASP.NET MVC (.NET)** projects, CMS platforms, website optimization, and SEO best practices.
+🛠️ My primary tech stack includes **HTML5, CSS3, Sass, Bootstrap, JavaScript, jQuery, Dart, MySQL, Git, GitHub, Markdown, Figma, and Adobe Photoshop**. I also have experience working with **ASP.NET MVC (.NET)** projects, CMS platforms, website optimization, and SEO best practices.
 
-🌱 I'm currently expanding my backend knowledge with **PHP** while continuously growing as a **Software Developer**.
-
-💬 Ask me about **Frontend Development, Responsive Web Design, HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, MySQL, Git, GitHub, Markdown, Figma, Adobe Photoshop, SEO, and Open Source.**
+💬 Ask me about **Frontend Development, Responsive Web Design, HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, Dart, MySQL, Git, GitHub, Markdown, Figma, Adobe Photoshop, SEO, and Open Source.**
 
 🕷️ Fun Fact: Like a spider weaving its web, I create websites with **clean, strong, and creative code**.  
 
@@ -37,6 +35,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![SEO Knowledge](https://img.shields.io/badge/SEO-On--page%2C%20Off--page%2C%20Technical%20%26%20Local-0769ad?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ## 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
